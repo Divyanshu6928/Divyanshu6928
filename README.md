@@ -21,11 +21,7 @@ I'm a passionate software developer with a keen interest in learning new technol
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## 📈 GitHub Stats
@@ -40,9 +36,9 @@ I'm a passionate software developer with a keen interest in learning new technol
 <!-- BLOG-POST-LIST:END -->
 
 ## 📝 Projects
-- **[Project 1](https://github.com/Divyanshu6928/project1):** A short description of project 1.
-- **[Project 2](https://github.com/Divyanshu6928/project2):** A short description of project 2.
-- **[Project 3](https://github.com/Divyanshu6928/project3):** A short description of project 3.
+- **[Portfolio](https://itsdg.vercel.app/):**"Designed and developed my website to showcase projects and skills. Features an intuitive UI, interactive elements, and optimized performance for seamless user experience."
+- **[Redesigned website](https://sidcupfamily.vercel.app/):** Redesigned website with a modern, user-friendly interface, improved navigation, and enhanced performance.
+- **[AGRICTECH](https://shorturl.at/jaBxw):** A short description of project 3.
 
 ## 💼 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu)
