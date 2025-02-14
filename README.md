@@ -5,10 +5,8 @@
 ## 🚀 About Me
 I'm a passionate software developer with a keen interest in learning new technologies and building innovative projects. I enjoy solving complex problems and collaborating with others to create impactful solutions. 
 
-- 🌱 I’m currently learning **Advanced React**, **GraphQL**, and **DevOps Practices**
-- 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about **web development**, **machine learning**, or **cloud computing**
-- 📫 How to reach me: [divyanshu@example.com](mailto:divyanshu@example.com)
+- 📫 How to reach me: [lyricalv15@gmail.com](mailto:[lyricalv15@gmail.com])
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
