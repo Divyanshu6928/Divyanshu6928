@@ -24,13 +24,6 @@ I'm a passionate software developer with a keen interest in learning new technol
 ![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyanshu6928&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu6928&layout=compact&theme=radical)
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Title of Blog Post 1](https://example.com/blog1)
-- [Title of Blog Post 2](https://example.com/blog2)
-- [Title of Blog Post 3](https://example.com/blog3)
-<!-- BLOG-POST-LIST:END -->
-
 ## 📝 Projects
 - **[Portfolio](https://itsdg.vercel.app/):**"Designed and developed my website to showcase projects and skills. Features an intuitive UI, interactive elements, and optimized performance for seamless user experience."
 - **[Redesigned website](https://sidcupfamily.vercel.app/):** Redesigned website with a modern, user-friendly interface, improved navigation, and enhanced performance.
