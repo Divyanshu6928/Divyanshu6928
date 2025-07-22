@@ -1,7 +1,5 @@
 # Hi there, I'm Divyanshu! 👋
 
-![Profile Banner](https://example.com/banner.png)
-
 ## 🚀 About Me
 I'm a passionate software developer with a keen interest in learning new technologies and building innovative projects. I enjoy solving complex problems and collaborating with others to create impactful solutions. 
 
