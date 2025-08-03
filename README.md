@@ -12,11 +12,11 @@
 
 Hey! I'm **Divyanshu**, a passionate learner, full-stack developer, and creative designer. I'm constantly exploring new tech, building real-world projects, and improving my problem-solving skills.
 
-- 🎓 BSc Data Science @ IIT Madras (Online)
+- 🎓 BSc Data Science @ IIT Madras 
 - 🧠 Strong in **Python**, **JavaScript**, and **Problem Solving**
-- 💡 Interest Areas: **Cloud**, **ML**, **Full-Stack Web Dev**, **UI/UX**
+- 💡 Interest Areas: **Full-Stack Web Dev**, **UI/UX**
 - ✨ UI/UX Designer | Figma Enthusiast | Clean Code Advocate
-- 📈 Goal: To earn **20+ LPA by 2027** through skill + hustle 🚀
+- 📈 Goal: To earn **30+ LPA by 2027** through skill + hustle 🚀
 
 ---
 
